@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class ConnectFour {
     public static void main(String[] args) {
+        //This comment inidcates changes made for Lab6, to be pushed to github.
         Scanner scanner = new Scanner(System.in);
         System.out.print("What would you like the height of the board to be? ");
         int ht = scanner.nextInt();
